@@ -1,0 +1,18 @@
+.img {
+  background-image: url("./background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 50rem;
+  height: 30rem;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  top: -5rem;
+  background-color: #160609;
+  z-index: -1;
+}
+/* #da0c2b */
